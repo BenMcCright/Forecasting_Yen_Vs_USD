@@ -1,4 +1,4 @@
-# us: jp: Forecasting_Yen_Vs_USD jp: us:
+# :us: :jp: Forecasting_Yen_Vs_USD :jp: :us:
 Time-Series Forecasting and Linear Regression Forecasting of the Japanese Yen to the US Dollar
 
 * [Time_Series_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Starter_Code/time_series_analysis.ipynb)
