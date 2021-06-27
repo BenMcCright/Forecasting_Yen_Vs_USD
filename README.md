@@ -23,3 +23,11 @@ Time-Series Forecasting and Linear Regression Forecasting of the Japanese Yen to
 ---
 ## Regression Analysis Conclusions
 ### The In-Sample predictions and Out-of-Sample predictions are very close to one another, but the In-Sample predictions are slightly more accurate.
+---
+## Mean Squared Error (MSE)
+### - In-Sample = 0.0263
+### - Out-of-Sample = 0.0287
+
+## Root Mean Squared Error (RMSE)
+### - In-Sample = 0.1622
+### - Out-of-Sample = 0.1693
