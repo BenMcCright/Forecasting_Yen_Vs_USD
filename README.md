@@ -1,9 +1,8 @@
 # 💰 💱 💴 Forecasting_Yen_Vs_USD 💴 💱 💰
 Time-Series Forecasting and Linear Regression Forecasting of the Japanese Yen to the US Dollar
 
-* [Time_Series_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Notebooks/regression_analysis.ipynb)
+* [Time_Series_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Notebooks/time_series_analysis.ipynb)
 * [Regression_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Notebooks/regression_analysis.ipynb)
-https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/Notebooks/.git
 
 ## Time Series Models
 ![Yen Settle Price from 1990 to Present](Resources/yen_settle.png)
