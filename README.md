@@ -18,8 +18,8 @@ Time-Series Forecasting and Linear Regression Forecasting of the Japanese Yen to
 ### These models provide good insight to conduct trades.
 ---
 ## Regression Analysis Models
-![Yen Futures Predictions vs. Actual](Resources/Yen_Futures_Predictions_Vs_Actual)
-![In-Sample Predictions vs. Actual](Resources/In_Sample_Predictions_vs_Actual)
+![Yen Futures Predictions vs. Actual](Resources/Yen_Futures_Predictions_Vs_Actual.png)
+![In-Sample Predictions vs. Actual](Resources/In_Sample_Predictions_vs_Actual.png)
 ---
 ## Regression Analysis Conclusions
 ### The In-Sample predictions and Out-of-Sample predictions are very close to one another, but the In-Sample predictions are slightly more accurate.
