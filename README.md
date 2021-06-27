@@ -1,8 +1,9 @@
 # 💰 💱 💴 Forecasting_Yen_Vs_USD 💴 💱 💰
 Time-Series Forecasting and Linear Regression Forecasting of the Japanese Yen to the US Dollar
 
-* [Time_Series_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Starter_Code/time_series_analysis.ipynb)
-* [Regression_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Starter_Code/regression_analysis.ipynb)
+* [Time_Series_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Notebooks/regression_analysis.ipynb)
+* [Regression_Analysis](https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/blob/master/Notebooks/regression_analysis.ipynb)
+https://github.com/BenMcCright/Forecasting_Yen_Vs_USD/Notebooks/.git
 
 ## Time Series Models
 ![Yen Settle Price from 1990 to Present](Resources/yen_settle.png)
@@ -13,9 +14,9 @@ Time-Series Forecasting and Linear Regression Forecasting of the Japanese Yen to
 ![5 Day Volatility Forecast - GARCH](Resources/yen_garch.png)
 ---
 ## Time Series Conclusions
-### I would not buy the Yen right now.
+### I would not buy the Yen right now, but would try to buy the Yen when its actual price is below the trend.
 ### The risk of the Yen is expected to increase.
-### These models provide good insight to conduct trades.
+### Both the ARMA and ARIMA model do not provide statistically significant insight due to their high p-levels, however the GARCH model has a low enough p-score that it is statistically significant.
 ---
 ## Regression Analysis Models
 ![Yen Futures Predictions vs. Actual](Resources/Yen_Futures_Predictions_Vs_Actual.png)
